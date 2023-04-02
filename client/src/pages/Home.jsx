@@ -8,7 +8,7 @@ import {
     headContentAnimation,
     headTextAnimation,
     slideAnimation
-} from '../config/config/motion';
+} from '../config/motion';
 
 
 
